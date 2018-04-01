@@ -1,0 +1,6 @@
+# ignore debug file
+Debug/
+ipch/
+*.log
+*.sdf
+*.opensdf
